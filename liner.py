@@ -21,3 +21,6 @@ def create_image_with_transparent_rows(input_image_path, output_image_path):
 
 # Primer korišćenja
 create_image_with_transparent_rows("slika1.png", "slika2.png")
+
+# slika1.png is an original picture, while slika2.png is a result picture!
+
